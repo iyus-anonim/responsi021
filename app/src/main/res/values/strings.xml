@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">responsi021</string>
+
+
+    <string name="dialog_fire_missiles" />
+    <string name="fire" />
+    <string name="cancel" />
+    <string name="nama">Nama</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
